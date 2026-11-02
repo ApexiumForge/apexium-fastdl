@@ -1,0 +1,5 @@
+35hp_lava - Knife 35HP
+
+Torbeshi: knife-only team rounds, 35 HP and no armor.
+Map BSP preserved unchanged.
+Map source: https://cs16planet.ru/karty-cs-16/na-nozhah/840-karta-35hp_lava-dlya-cs-16.html
