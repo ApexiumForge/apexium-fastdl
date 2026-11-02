@@ -1,0 +1,5 @@
+Football on Torbeshi
+Touch to dribble; E/left click shoots; R/right click passes.
+First team to 5 goals wins. /football for help.
+Original SoccerJam pitch and resources: https://github.com/Doondook/soccerjam
+Mode adapted from GPL-3.0 CSB SoccerJam (counter-strike-boost.com).
