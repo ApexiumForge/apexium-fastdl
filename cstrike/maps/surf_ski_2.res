@@ -1,2 +1,1 @@
-// Torbeshi: validated custom resources.
-
+// No custom resources. Uses standard CS/Valve assets.
