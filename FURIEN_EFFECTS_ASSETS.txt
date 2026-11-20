@@ -1,0 +1,5 @@
+Furien Pack audio assets
+Source: https://github.com/ShootingKing-AM/AmxModx-Plugins/blob/master/Furien%20Pack/resources.zip
+Pack/plugin credits: Shooting King and Askhanar.
+Files: fmu_bombplanted.mp3, fmu_bombplanted2.mp3, fmu_heartbeat.wav.
+Audio bytes unchanged. Heartbeat renamed fmu_heartbeat_pack.wav to preserve the pre-existing sound.
